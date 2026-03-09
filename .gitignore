@@ -1,0 +1,42 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+env/
+
+# Environment & Secrets
+.env
+*.key
+
+# IDE
+.idea/
+.vscode/
+*.iml
+*.swp
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Agent runtime artifacts
+agent/ui.xml
+agent/screen*.png
+
+# Android build outputs
+testApp/build/
+testApp/app/build/
+testApp/.gradle/
+testApp/local.properties
+*.apk
+
+# Gradle
+.gradle/
+gradle/wrapper/gradle-wrapper.jar
+testApp/gradle-dist/
+testApp/gradle.zip
+testApp/Untitled

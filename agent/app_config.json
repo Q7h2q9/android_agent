@@ -1,0 +1,5 @@
+{
+  "package": "com.example.reverseeng",
+  "activity": "com.example.reverseeng.MainActivity",
+  "full_activity": "com.example.reverseeng/com.example.reverseeng.MainActivity"
+}
